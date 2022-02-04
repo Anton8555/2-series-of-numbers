@@ -1,0 +1,3 @@
+C:/Users/Anton/CLionProjects/2_series_of_numbers/cmake-build-debug/CMakeFiles/2_series_of_numbers.dir
+C:/Users/Anton/CLionProjects/2_series_of_numbers/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Anton/CLionProjects/2_series_of_numbers/cmake-build-debug/CMakeFiles/rebuild_cache.dir
